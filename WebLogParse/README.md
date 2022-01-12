@@ -1,0 +1,1 @@
+Parses a weblog and outputs the number of requests coming from Safari, Chrome, and Firefox, distinct IP addresses per day and the 20 most popular product requests.
